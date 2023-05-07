@@ -88,14 +88,14 @@ The official Patch bundle provided by ReVanced and the community.
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `disable-login-requirement` | Do not force login. | all |
-| `downloads` | Removes download restrictions and changes the default path to download to. | 27.8.3 |
-| `feed-filter` | Filters tiktok videos: removing ads, removing livestreams. | 27.8.3 |
+| `downloads` | Removes download restrictions and changes the default path to download to. | 29.3.4 |
+| `feed-filter` | Filters tiktok videos: removing ads, removing livestreams. | 29.3.4 |
 | `fix-google-login` | Allows logging in with a Google account. | all |
 | `hide-ads` | Removes ads from TikTok. | all |
 | `playback-speed` | Enables the playback speed option for all videos. | all |
-| `settings` | Adds ReVanced settings to TikTok. | 27.8.3 |
+| `settings` | Adds ReVanced settings to TikTok. | 29.3.4 |
 | `show-seekbar` | Shows progress bar for all video. | all |
-| `sim-spoof` | Spoofs the information which is retrieved from the sim-card. | 27.8.3 |
+| `sim-spoof` | Spoofs the information which is retrieved from the sim-card. | 29.3.4 |
 </details>
 
 ### [📦 `com.zhiliaoapp.musically`](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
@@ -104,14 +104,14 @@ The official Patch bundle provided by ReVanced and the community.
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `disable-login-requirement` | Do not force login. | all |
-| `downloads` | Removes download restrictions and changes the default path to download to. | 27.8.3 |
-| `feed-filter` | Filters tiktok videos: removing ads, removing livestreams. | 27.8.3 |
+| `downloads` | Removes download restrictions and changes the default path to download to. | 29.3.4 |
+| `feed-filter` | Filters tiktok videos: removing ads, removing livestreams. | 29.3.4 |
 | `fix-google-login` | Allows logging in with a Google account. | all |
 | `hide-ads` | Removes ads from TikTok. | all |
 | `playback-speed` | Enables the playback speed option for all videos. | all |
-| `settings` | Adds ReVanced settings to TikTok. | 27.8.3 |
+| `settings` | Adds ReVanced settings to TikTok. | 29.3.4 |
 | `show-seekbar` | Shows progress bar for all video. | all |
-| `sim-spoof` | Spoofs the information which is retrieved from the sim-card. | 27.8.3 |
+| `sim-spoof` | Spoofs the information which is retrieved from the sim-card. | 29.3.4 |
 </details>
 
 ### [📦 `tv.twitch.android.app`](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
@@ -138,16 +138,6 @@ The official Patch bundle provided by ReVanced and the community.
 | `hide-views-stats` | Hides the view stats under tweets. | 9.71.0-release.0 |
 </details>
 
-### [📦 `com.spotify.music`](https://play.google.com/store/apps/details?id=com.spotify.music)
-<details>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `disable-capture-restriction` | Allows capturing Spotify's audio output while screen sharing or screen recording. | all |
-| `hide-premium-navbar` | Removes the premium tab from the navbar. | all |
-| `spotify-theme` | Applies a custom theme. | all |
-</details>
-
 ### [📦 `com.reddit.frontpage`](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 <details>
 
@@ -156,6 +146,17 @@ The official Patch bundle provided by ReVanced and the community.
 | `general-reddit-ads` | Removes general ads from the Reddit frontpage and subreddits. | 2023.12.0 |
 | `hide-subreddit-banner` | Hides banner ads from comments on subreddits. | 2023.12.0 |
 | `premium-icon-reddit` | Unlocks premium Reddit app icons. | all |
+| `uri-parameter-reddit` | Remove uri parameter when sharing links in reddit. | 2023.12.0 |
+</details>
+
+### [📦 `com.spotify.music`](https://play.google.com/store/apps/details?id=com.spotify.music)
+<details>
+
+| 💊 Patch | 📜 Description | 🏹 Target Version |
+|:--------:|:--------------:|:-----------------:|
+| `disable-capture-restriction` | Allows capturing Spotify's audio output while screen sharing or screen recording. | all |
+| `hide-premium-navbar` | Removes the premium tab from the navbar. | all |
+| `spotify-theme` | Applies a custom theme. | all |
 </details>
 
 ### [📦 `at.gv.bmf.bmf2go`](https://play.google.com/store/apps/details?id=at.gv.bmf.bmf2go)
